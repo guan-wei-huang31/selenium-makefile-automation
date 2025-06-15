@@ -7,7 +7,7 @@ It covers:
 - ✅ **PDF download verification**
 - ✅ **Makefile one-command automation**
 
-![Test Flow Figure](figure/figure1.png)
+![Test Flow Figure](figure/figure.png)
 
 
 ---
