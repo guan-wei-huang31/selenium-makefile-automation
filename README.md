@@ -7,6 +7,9 @@ It covers:
 - ✅ **PDF download verification**
 - ✅ **Makefile one-command automation**
 
+![Test Flow Figure](figure/figur.png)
+
+
 ---
 
 ## 📂 Project Structure
